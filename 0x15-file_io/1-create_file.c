@@ -1,4 +1,4 @@
-/*
+/*
  * File: 1-create_file.c
  * Auth: Gedeon Obae Gekonge
  */
